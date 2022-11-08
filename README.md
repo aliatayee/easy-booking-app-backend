@@ -16,7 +16,7 @@
 ## Getting Started
 To get a local copy of the program running, follow these simple steps
 ## Demo
-Coming soon...
+https://deploy-preview-10--easy-booking12.netlify.app/
 
 ### Prerequisites
 - IDE, preferably Visual Studio Code
